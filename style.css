@@ -1,0 +1,27 @@
+/*
+Set the font of your webpage to Arial.
+Center "Intro to HTML and CSS" and your name.
+Give any objects with the class "container" a black border.
+Give any objects with the class "italic" italicized font.
+*/
+
+body {
+  background-color: lightblue;
+  font: Arial;
+
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+  text-align: center;
+  /*center*/
+}
+
+.container {
+  border-style: solid;
+}
+
+.italic {
+  font-style: italic;
+}
