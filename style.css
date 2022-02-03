@@ -8,14 +8,12 @@ Give any objects with the class "italic" italicized font.
 body {
   background-color: lightblue;
   font: Arial;
-
 }
 
 h1 {
   color: navy;
   margin-left: 20px;
   text-align: center;
-  /*center*/
 }
 
 .container {
